@@ -18,10 +18,7 @@ class FooterComponent extends Component {
 					<a target='_blank' href='https://github.com/maheshdeploy'>
 						Github
 					</a>
-					/
-					<a target='_blank' href='#'>
-						LinkedIn
-					</a>
+					/<a href='#'>LinkedIn</a>
 				</div>
 				<FlatButton
 					labelStyle={{
