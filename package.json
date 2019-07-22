@@ -1,35 +1,35 @@
 {
-  "name": "personal-portfolio",
-  "homepage": "https://github.com/maheshdeploy/Portfolio.git",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "clone": "2.1.1",
-    "howler": "2.0.3",
-    "jquery": "^3.4.1",
-    "material-ui": "0.17.4",
-    "react": "15.5.4",
-    "react-dom": "15.5.4",
-    "react-parallax-component": "^1.0.6",
-    "react-tap-event": "1.0.3",
-    "react-tap-event-plugin": "2.0.1",
-    "roboto-npm-webfont": "0.0.2",
-    "scroll-to": "0.0.2",
-    "validator": "7.0.0"
-  },
-  "devDependencies": {
-    "gh-pages": "0.12.0",
-    "react-scripts": "^3.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "deploy": "npm run build && gh-pages -d build"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+	"name": "personal-portfolio",
+	"homepage": "https://github.com/maheshdeploy/Portfolio.git",
+	"version": "1.0.0",
+	"private": true,
+	"dependencies": {
+		"clone": "2.1.1",
+		"gh-pages": "^2.0.1",
+		"howler": "2.0.3",
+		"jquery": "^3.4.1",
+		"material-ui": "0.17.4",
+		"react": "15.5.4",
+		"react-dom": "15.5.4",
+		"react-parallax-component": "^1.0.6",
+		"react-tap-event": "1.0.3",
+		"react-tap-event-plugin": "2.0.1",
+		"roboto-npm-webfont": "0.0.2",
+		"scroll-to": "0.0.2",
+		"validator": "7.0.0"
+	},
+	"devDependencies": {
+		"react-scripts": "^3.0.1"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"deploy": "npm run build && gh-pages -d build"
+	},
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	]
 }
