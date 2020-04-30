@@ -7,7 +7,7 @@
 		"clone": "2.1.1",
 		"gh-pages": "^2.0.1",
 		"howler": "2.0.3",
-		"jquery": "^3.4.1",
+		"jquery": "^3.5.0",
 		"material-ui": "0.17.4",
 		"react": "15.5.4",
 		"react-dom": "15.5.4",
