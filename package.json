@@ -19,7 +19,7 @@
 		"validator": "7.0.0"
 	},
 	"devDependencies": {
-		"react-scripts": "^3.0.1"
+		"react-scripts": "^5.0.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
